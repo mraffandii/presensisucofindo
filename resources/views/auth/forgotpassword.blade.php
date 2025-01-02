@@ -48,7 +48,7 @@
     <div class="container">
         <h2>Hubungi Admin</h2>
         <p>Whastsapp Admin</p>
-        <a class="whatsapp-link" href="https://wa.me/628816912361" target="_blank">Admin 1</a>
+        <a class="whatsapp-link" href="https://wa.me/628816912361?text=Saya%20tertarik%20dengan%20aksesoris%20yang%20Anda%20jual" target="_blank">Admin 1</a>
         <a class="whatsapp-link" href="https://wa.me/6281295446131" target="_blank">Admin 2</a>
         <a class="whatsapp-link" href="https://wa.me/6282322771445" target="_blank">Admin 3</a>
     </div>

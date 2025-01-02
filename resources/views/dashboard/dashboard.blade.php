@@ -138,7 +138,7 @@
     </div>
 
     <div id="rekappresensi">
-        <h3>Rekap Presensi Bulan {{ $namabulan[$bulanini] }} Tahun {{ $tahunini }}</h3>
+        {{-- <h3>Rekap Presensi Bulan {{ $namabulan[$bulanini] }} Tahun {{ $tahunini }}</h3> --}}
         <div class="row">
             <div class="col-3">
                 <div class="card">
